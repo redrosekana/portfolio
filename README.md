@@ -1,2 +1,2 @@
 # portfolio
-deploy netify coming soon !!!!!!!!
+deploy netlify coming soon !!!!!!!!
