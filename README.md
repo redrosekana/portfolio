@@ -1,2 +1,3 @@
 # portfolio
-deploy netlify coming soon !!!!!!!!
+deploy netlify
+- https://sukachathum.netlify.app
